@@ -1,0 +1,28 @@
+\\vmware-host\Shared Folders\Bureau\Atelier3\TestLib\bin\Debug\TestLib.dll
+\\vmware-host\Shared Folders\Bureau\Atelier3\TestLib\bin\Debug\TestLib.pdb
+\\vmware-host\Shared Folders\Bureau\Atelier3\TestLib\bin\Debug\Lib.dll
+\\vmware-host\Shared Folders\Bureau\Atelier3\TestLib\bin\Debug\Lib.pdb
+\\vmware-host\Shared Folders\Bureau\Atelier3\TestLib\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Bureau\Atelier3\TestLib\obj\Debug\TestLib.dll
+\\vmware-host\Shared Folders\Bureau\Atelier3\TestLib\obj\Debug\TestLib.pdb
+C:\Atelier3\TestLib\bin\Debug\TestLib.dll
+C:\Atelier3\TestLib\bin\Debug\TestLib.pdb
+C:\Atelier3\TestLib\bin\Debug\Lib.dll
+C:\Atelier3\TestLib\bin\Debug\Lib.pdb
+C:\Atelier3\TestLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Atelier3\TestLib\obj\Debug\TestLib.dll
+C:\Atelier3\TestLib\obj\Debug\TestLib.pdb
+C:\Users\Savinien Lucbereilh\Desktop\Atelier3\TestLib\bin\Debug\TestLib.dll
+C:\Users\Savinien Lucbereilh\Desktop\Atelier3\TestLib\bin\Debug\TestLib.pdb
+C:\Users\Savinien Lucbereilh\Desktop\Atelier3\TestLib\bin\Debug\Lib.dll
+C:\Users\Savinien Lucbereilh\Desktop\Atelier3\TestLib\bin\Debug\Lib.pdb
+C:\Users\Savinien Lucbereilh\Desktop\Atelier3\TestLib\obj\Debug\TestLib.csprojResolveAssemblyReference.cache
+C:\Users\Savinien Lucbereilh\Desktop\Atelier3\TestLib\obj\Debug\TestLib.dll
+C:\Users\Savinien Lucbereilh\Desktop\Atelier3\TestLib\obj\Debug\TestLib.pdb
+D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\TestLib\bin\Debug\TestLib.dll
+D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\TestLib\bin\Debug\TestLib.pdb
+D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\TestLib\bin\Debug\Lib.dll
+D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\TestLib\bin\Debug\Lib.pdb
+D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\TestLib\obj\Debug\TestLib.csprojResolveAssemblyReference.cache
+D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\TestLib\obj\Debug\TestLib.dll
+D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\TestLib\obj\Debug\TestLib.pdb

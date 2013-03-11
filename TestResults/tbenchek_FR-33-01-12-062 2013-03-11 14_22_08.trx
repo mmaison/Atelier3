@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b24d6077-62f3-4163-a6d5-d22a449213d4" name="tbenchek@FR-33-01-12-062 2013-03-11 14:22:08" runUser="SOR\tbenchek" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="964a3fb8-e917-4ad7-862c-0ef62600ef40">
+    <Description>Il s'agit des paramètres de test par défaut pour une série de tests locale.</Description>
+    <Deployment enabled="false" runDeploymentRoot="tbenchek_FR-33-01-12-062 2013-03-11 14_22_08">
+      <DeploymentItem filename="D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\Lib\bin\Debug\Lib.dll" />
+      <DeploymentItem filename="D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\Atelier3\bin\Debug\Atelier3.exe" />
+      <DeploymentItem filename="D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\SoccerRankingLib\bin\Debug\SoccerRankingLib.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-03-11T14:22:08.7023809+01:00" queuing="2013-03-11T14:22:08.7423797+01:00" start="2013-03-11T14:22:08.7423797+01:00" finish="2013-03-11T14:22:08.9323740+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetPointsFromMatchTest" storage="d:\utilisateurs\tbenchek\desktop\atelier3\atelier3\frenchleaguetest\bin\debug\frenchleaguetest.dll" id="e62e383d-4e73-7eaf-4470-9b9244b097ff">
+      <Execution id="99447713-be8a-477d-965e-e757d5f8126c" />
+      <TestMethod codeBase="D:/utilisateurs/tbenchek/Desktop/Atelier3/Atelier3/FrenchLeagueTest/bin/Debug/FrenchLeagueTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FrenchLeagueTest.FrenchLeague1PointSystemTest, FrenchLeagueTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetPointsFromMatchTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="e62e383d-4e73-7eaf-4470-9b9244b097ff" executionId="99447713-be8a-477d-965e-e757d5f8126c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="99447713-be8a-477d-965e-e757d5f8126c" testId="e62e383d-4e73-7eaf-4470-9b9244b097ff" testName="GetPointsFromMatchTest" computerName="FR-33-01-12-062" duration="00:00:00.0127253" startTime="2013-03-11T14:22:08.7523794+01:00" endTime="2013-03-11T14:22:08.9223743+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="99447713-be8a-477d-965e-e757d5f8126c">
+    </UnitTestResult>
+  </Results>
+</TestRun>
