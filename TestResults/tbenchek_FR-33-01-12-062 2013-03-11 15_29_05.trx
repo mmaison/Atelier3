@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2009094c-e5d8-4427-b606-0b0de0ad8774" name="tbenchek@FR-33-01-12-062 2013-03-11 15:29:05" runUser="SOR\tbenchek" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="964a3fb8-e917-4ad7-862c-0ef62600ef40">
+    <Description>Il s'agit des paramètres de test par défaut pour une série de tests locale.</Description>
+    <Deployment enabled="false" runDeploymentRoot="tbenchek_FR-33-01-12-062 2013-03-11 15_29_05">
+      <DeploymentItem filename="D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\Lib\bin\Debug\Lib.dll" />
+      <DeploymentItem filename="D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\Atelier3\bin\Debug\Atelier3.exe" />
+      <DeploymentItem filename="D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\SoccerRankingLib\bin\Debug\SoccerRankingLib.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-03-11T15:29:05.1300124+01:00" queuing="2013-03-11T15:29:05.1670124+01:00" start="2013-03-11T15:29:05.1690124+01:00" finish="2013-03-11T15:29:05.3570124+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="IncrementTest" storage="d:\utilisateurs\tbenchek\desktop\atelier3\atelier3\frenchleaguetest\bin\debug\frenchleaguetest.dll" id="38b14273-9678-e070-b533-f0c1007d4d3b">
+      <Execution id="5d2ccd3a-2285-4135-829a-12e90625101d" />
+      <TestMethod codeBase="D:/utilisateurs/tbenchek/Desktop/Atelier3/Atelier3/FrenchLeagueTest/bin/Debug/FrenchLeagueTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FrenchLeagueTest.FrenchLeague1PointSystem_PointTotalTest, FrenchLeagueTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IncrementTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="38b14273-9678-e070-b533-f0c1007d4d3b" executionId="5d2ccd3a-2285-4135-829a-12e90625101d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5d2ccd3a-2285-4135-829a-12e90625101d" testId="38b14273-9678-e070-b533-f0c1007d4d3b" testName="IncrementTest" computerName="FR-33-01-12-062" duration="00:00:00.0126477" startTime="2013-03-11T15:29:05.1730124+01:00" endTime="2013-03-11T15:29:05.3490124+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5d2ccd3a-2285-4135-829a-12e90625101d">
+    </UnitTestResult>
+  </Results>
+</TestRun>
