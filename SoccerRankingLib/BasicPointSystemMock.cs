@@ -16,7 +16,7 @@ namespace TestRanking
             public TotalMock(Match m, bool home)
             {
                 this.points = m.HomeGoals - m.AwayGoals;
-              
+               // this.points = m.GetGoals(home) - m.GetGoals(!home);
             }
             public void Increment(PointSystem.ITotal with)
             {

@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e04be6a7-a9dd-4bee-abea-e71f2e2c8717" name="Savinien Lucbereilh@SAVINIEN 2013-03-04 19:51:54" runUser="Savinien\Savinien Lucbereilh" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="964a3fb8-e917-4ad7-862c-0ef62600ef40">
+    <Description>Il s'agit des paramètres de test par défaut pour une série de tests locale.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Savinien Lucbereilh_SAVINIEN 2013-03-04 19_51_54">
+      <DeploymentItem filename="C:\Users\Savinien Lucbereilh\Desktop\Atelier3\Lib\bin\Debug\Lib.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-03-04T19:51:54.3979348+01:00" queuing="2013-03-04T19:51:57.8589048+01:00" start="2013-03-04T19:51:57.8657404+01:00" finish="2013-03-04T19:51:58.0903558+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="11" executed="11" passed="5" error="0" failed="2" timeout="0" aborted="0" inconclusive="4" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ClubConstructorTest" storage="c:\users\savinien lucbereilh\desktop\atelier3\testlib\bin\debug\testlib.dll" id="fb20f93f-ac1d-bdac-90f8-b409b3174262">
+      <Execution id="a3ca64ea-ae20-4382-92b2-bdeac0e45392" />
+      <TestMethod codeBase="C:/Users/Savinien Lucbereilh/Desktop/Atelier3/TestLib/bin/Debug/TestLib.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestLib.ClubTest, TestLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ClubConstructorTest" />
+    </UnitTest>
+    <UnitTest name="MatchConstructorTest" storage="c:\users\savinien lucbereilh\desktop\atelier3\testlib\bin\debug\testlib.dll" id="712b1bb1-36fa-ee91-72c9-ed3069e025e6">
+      <Execution id="12fed252-1cbf-452e-a85e-5cd10096fca8" />
+      <TestMethod codeBase="C:/Users/Savinien Lucbereilh/Desktop/Atelier3/TestLib/bin/Debug/TestLib.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestLib.MatchTest, TestLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MatchConstructorTest" />
+    </UnitTest>
+    <UnitTest name="ToStringTest" storage="c:\users\savinien lucbereilh\desktop\atelier3\testlib\bin\debug\testlib.dll" id="8ccd64cc-b635-9759-0fd0-44c225be0f93">
+      <Execution id="649b4c37-aaa8-45c4-be74-feff2d7d1dba" />
+      <TestMethod codeBase="C:/Users/Savinien Lucbereilh/Desktop/Atelier3/TestLib/bin/Debug/TestLib.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestLib.ClubTest, TestLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ToStringTest" />
+    </UnitTest>
+    <UnitTest name="AwayGoalsTest" storage="c:\users\savinien lucbereilh\desktop\atelier3\testlib\bin\debug\testlib.dll" id="194936c4-fe2b-2b9f-b4b2-066396265d61">
+      <Execution id="2c0e788f-d121-443e-aae9-92a672e782b9" />
+      <TestMethod codeBase="C:/Users/Savinien Lucbereilh/Desktop/Atelier3/TestLib/bin/Debug/TestLib.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestLib.MatchTest, TestLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AwayGoalsTest" />
+    </UnitTest>
+    <UnitTest name="HomeGoalsTest" storage="c:\users\savinien lucbereilh\desktop\atelier3\testlib\bin\debug\testlib.dll" id="8f21de7f-e6ed-dea1-95c4-5748718260ef">
+      <Execution id="aa2ac568-9cdb-4ba8-9a7e-209cab104561" />
+      <TestMethod codeBase="C:/Users/Savinien Lucbereilh/Desktop/Atelier3/TestLib/bin/Debug/TestLib.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestLib.MatchTest, TestLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HomeGoalsTest" />
+    </UnitTest>
+    <UnitTest name="IsAwayForfeitTest" storage="c:\users\savinien lucbereilh\desktop\atelier3\testlib\bin\debug\testlib.dll" id="b37b4a3e-f19e-d63a-58cf-b36a289255bd">
+      <Execution id="c6a231bb-25ca-4626-a020-c610b8d6a738" />
+      <TestMethod codeBase="C:/Users/Savinien Lucbereilh/Desktop/Atelier3/TestLib/bin/Debug/TestLib.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestLib.MatchTest, TestLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IsAwayForfeitTest" />
+    </UnitTest>
+    <UnitTest name="isDrawTest" storage="c:\users\savinien lucbereilh\desktop\atelier3\testlib\bin\debug\testlib.dll" id="f1c00562-9ca6-f0a2-2ac5-2229cd1f8c73">
+      <Execution id="25088ddd-8a9d-4174-a024-44ea51862fa5" />
+      <TestMethod codeBase="C:/Users/Savinien Lucbereilh/Desktop/Atelier3/TestLib/bin/Debug/TestLib.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestLib.MatchTest, TestLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="isDrawTest" />
+    </UnitTest>
+    <UnitTest name="isHomeForfaitTest" storage="c:\users\savinien lucbereilh\desktop\atelier3\testlib\bin\debug\testlib.dll" id="15aa387b-d797-9a10-ac96-f9f5828fde23">
+      <Execution id="26effb7c-ca09-4223-a44c-da6d2ec35d6d" />
+      <TestMethod codeBase="C:/Users/Savinien Lucbereilh/Desktop/Atelier3/TestLib/bin/Debug/TestLib.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestLib.MatchTest, TestLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="isHomeForfaitTest" />
+    </UnitTest>
+    <UnitTest name="HomeTest" storage="c:\users\savinien lucbereilh\desktop\atelier3\testlib\bin\debug\testlib.dll" id="cf74f09b-0c62-461e-813a-423683b12a7e">
+      <Execution id="56d5c9b9-32f1-4466-8a37-a56f88dd0c89" />
+      <TestMethod codeBase="C:/Users/Savinien Lucbereilh/Desktop/Atelier3/TestLib/bin/Debug/TestLib.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestLib.MatchTest, TestLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HomeTest" />
+    </UnitTest>
+    <UnitTest name="MatchConstructorTest1" storage="c:\users\savinien lucbereilh\desktop\atelier3\testlib\bin\debug\testlib.dll" id="60f2211b-2c11-d413-6cbd-8c9306c8eb14">
+      <Execution id="45a3e6c3-19ba-4418-a9f9-21dbf6353481" />
+      <TestMethod codeBase="C:/Users/Savinien Lucbereilh/Desktop/Atelier3/TestLib/bin/Debug/TestLib.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestLib.MatchTest, TestLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MatchConstructorTest1" />
+    </UnitTest>
+    <UnitTest name="AwayTest" storage="c:\users\savinien lucbereilh\desktop\atelier3\testlib\bin\debug\testlib.dll" id="1ed9e0b8-b917-981f-1adf-4d3988eb679a">
+      <Execution id="c668408e-dad8-406e-bc63-f7ecb0a8f734" />
+      <TestMethod codeBase="C:/Users/Savinien Lucbereilh/Desktop/Atelier3/TestLib/bin/Debug/TestLib.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestLib.MatchTest, TestLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AwayTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Les résultats ne figurent pas dans une liste" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Tous les résultats chargés" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="15aa387b-d797-9a10-ac96-f9f5828fde23" executionId="26effb7c-ca09-4223-a44c-da6d2ec35d6d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="194936c4-fe2b-2b9f-b4b2-066396265d61" executionId="2c0e788f-d121-443e-aae9-92a672e782b9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1ed9e0b8-b917-981f-1adf-4d3988eb679a" executionId="c668408e-dad8-406e-bc63-f7ecb0a8f734" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="60f2211b-2c11-d413-6cbd-8c9306c8eb14" executionId="45a3e6c3-19ba-4418-a9f9-21dbf6353481" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="712b1bb1-36fa-ee91-72c9-ed3069e025e6" executionId="12fed252-1cbf-452e-a85e-5cd10096fca8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8ccd64cc-b635-9759-0fd0-44c225be0f93" executionId="649b4c37-aaa8-45c4-be74-feff2d7d1dba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8f21de7f-e6ed-dea1-95c4-5748718260ef" executionId="aa2ac568-9cdb-4ba8-9a7e-209cab104561" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b37b4a3e-f19e-d63a-58cf-b36a289255bd" executionId="c6a231bb-25ca-4626-a020-c610b8d6a738" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cf74f09b-0c62-461e-813a-423683b12a7e" executionId="56d5c9b9-32f1-4466-8a37-a56f88dd0c89" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f1c00562-9ca6-f0a2-2ac5-2229cd1f8c73" executionId="25088ddd-8a9d-4174-a024-44ea51862fa5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fb20f93f-ac1d-bdac-90f8-b409b3174262" executionId="a3ca64ea-ae20-4382-92b2-bdeac0e45392" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="26effb7c-ca09-4223-a44c-da6d2ec35d6d" testId="15aa387b-d797-9a10-ac96-f9f5828fde23" testName="isHomeForfaitTest" computerName="SAVINIEN" duration="00:00:00.0116023" startTime="2013-03-04T19:51:57.8686697+01:00" endTime="2013-03-04T19:51:58.0093210+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="26effb7c-ca09-4223-a44c-da6d2ec35d6d">
+    </UnitTestResult>
+    <UnitTestResult executionId="2c0e788f-d121-443e-aae9-92a672e782b9" testId="194936c4-fe2b-2b9f-b4b2-066396265d61" testName="AwayGoalsTest" computerName="SAVINIEN" duration="00:00:00.0003235" startTime="2013-03-04T19:51:58.0102755+01:00" endTime="2013-03-04T19:51:58.0141880+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2c0e788f-d121-443e-aae9-92a672e782b9">
+    </UnitTestResult>
+    <UnitTestResult executionId="c668408e-dad8-406e-bc63-f7ecb0a8f734" testId="1ed9e0b8-b917-981f-1adf-4d3988eb679a" testName="AwayTest" computerName="SAVINIEN" duration="00:00:00.0003690" startTime="2013-03-04T19:51:58.0151586+01:00" endTime="2013-03-04T19:51:58.0180943+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c668408e-dad8-406e-bc63-f7ecb0a8f734">
+    </UnitTestResult>
+    <UnitTestResult executionId="45a3e6c3-19ba-4418-a9f9-21dbf6353481" testId="60f2211b-2c11-d413-6cbd-8c9306c8eb14" testName="MatchConstructorTest1" computerName="SAVINIEN" duration="00:00:00.0003166" startTime="2013-03-04T19:51:58.0200412+01:00" endTime="2013-03-04T19:51:58.0229709+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="45a3e6c3-19ba-4418-a9f9-21dbf6353481">
+    </UnitTestResult>
+    <UnitTestResult executionId="12fed252-1cbf-452e-a85e-5cd10096fca8" testId="712b1bb1-36fa-ee91-72c9-ed3069e025e6" testName="MatchConstructorTest" computerName="SAVINIEN" duration="00:00:00.0003101" startTime="2013-03-04T19:51:58.0239475+01:00" endTime="2013-03-04T19:51:58.0268776+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="12fed252-1cbf-452e-a85e-5cd10096fca8">
+    </UnitTestResult>
+    <UnitTestResult executionId="649b4c37-aaa8-45c4-be74-feff2d7d1dba" testId="8ccd64cc-b635-9759-0fd0-44c225be0f93" testName="ToStringTest" computerName="SAVINIEN" duration="00:00:00.0136479" startTime="2013-03-04T19:51:58.0288309+01:00" endTime="2013-03-04T19:51:58.0454326+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="649b4c37-aaa8-45c4-be74-feff2d7d1dba">
+      <Output>
+        <ErrorInfo>
+          <Message>Échec de Assert.AreEqual. Attendu : &lt;&gt;, Réel : &lt;Lib.Club&gt;. </Message>
+          <StackTrace>   à TestLib.ClubTest.ToStringTest() dans C:\Users\Savinien Lucbereilh\Desktop\Atelier3\TestLib\ClubTest.cs:ligne 89
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="aa2ac568-9cdb-4ba8-9a7e-209cab104561" testId="8f21de7f-e6ed-dea1-95c4-5748718260ef" testName="HomeGoalsTest" computerName="SAVINIEN" duration="00:00:00.0006443" startTime="2013-03-04T19:51:58.0473864+01:00" endTime="2013-03-04T19:51:58.0503229+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aa2ac568-9cdb-4ba8-9a7e-209cab104561">
+      <Output>
+        <ErrorInfo>
+          <Message>Échec de Assert.Inconclusive. Vérifiez l'exactitude de cette méthode de test.</Message>
+          <StackTrace>   à TestLib.MatchTest.HomeGoalsTest() dans C:\Users\Savinien Lucbereilh\Desktop\Atelier3\TestLib\MatchTest.cs:ligne 164
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c6a231bb-25ca-4626-a020-c610b8d6a738" testId="b37b4a3e-f19e-d63a-58cf-b36a289255bd" testName="IsAwayForfeitTest" computerName="SAVINIEN" duration="00:00:00.0007399" startTime="2013-03-04T19:51:58.0522694+01:00" endTime="2013-03-04T19:51:58.0581287+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c6a231bb-25ca-4626-a020-c610b8d6a738">
+      <Output>
+        <ErrorInfo>
+          <Message>Échec de Assert.Inconclusive. Vérifiez l'exactitude de cette méthode de test.</Message>
+          <StackTrace>   à TestLib.MatchTest.IsAwayForfeitTest() dans C:\Users\Savinien Lucbereilh\Desktop\Atelier3\TestLib\MatchTest.cs:ligne 179
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="56d5c9b9-32f1-4466-8a37-a56f88dd0c89" testId="cf74f09b-0c62-461e-813a-423683b12a7e" testName="HomeTest" computerName="SAVINIEN" duration="00:00:00.0006577" startTime="2013-03-04T19:51:58.0600821+01:00" endTime="2013-03-04T19:51:58.0639884+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="56d5c9b9-32f1-4466-8a37-a56f88dd0c89">
+      <Output>
+        <ErrorInfo>
+          <Message>Échec de Assert.Inconclusive. Vérifiez l'exactitude de cette méthode de test.</Message>
+          <StackTrace>   à TestLib.MatchTest.HomeTest() dans C:\Users\Savinien Lucbereilh\Desktop\Atelier3\TestLib\MatchTest.cs:ligne 149
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="25088ddd-8a9d-4174-a024-44ea51862fa5" testId="f1c00562-9ca6-f0a2-2ac5-2229cd1f8c73" testName="isDrawTest" computerName="SAVINIEN" duration="00:00:00.0041839" startTime="2013-03-04T19:51:58.0659418+01:00" endTime="2013-03-04T19:51:58.0737541+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="25088ddd-8a9d-4174-a024-44ea51862fa5">
+      <Output>
+        <ErrorInfo>
+          <Message>La méthode de test TestLib.MatchTest.isDrawTest a levé une exception : 
+System.NotImplementedException: La méthode ou l'opération n'est pas implémentée.</Message>
+          <StackTrace>    à Lib.Match.get_IsDraw() dans C:\Users\Savinien Lucbereilh\Desktop\Atelier3\Lib\Match.cs:ligne 83
+   à TestLib.MatchTest.isDrawTest() dans C:\Users\Savinien Lucbereilh\Desktop\Atelier3\TestLib\MatchTest.cs:ligne 193
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a3ca64ea-ae20-4382-92b2-bdeac0e45392" testId="fb20f93f-ac1d-bdac-90f8-b409b3174262" testName="ClubConstructorTest" computerName="SAVINIEN" duration="00:00:00.0004848" startTime="2013-03-04T19:51:58.0747315+01:00" endTime="2013-03-04T19:51:58.0786367+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a3ca64ea-ae20-4382-92b2-bdeac0e45392">
+      <Output>
+        <ErrorInfo>
+          <Message>Échec de Assert.Inconclusive. TODO: implémentez le code pour vérifier la cible</Message>
+          <StackTrace>   à TestLib.ClubTest.ClubConstructorTest() dans C:\Users\Savinien Lucbereilh\Desktop\Atelier3\TestLib\ClubTest.cs:ligne 75
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

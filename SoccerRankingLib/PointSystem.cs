@@ -9,16 +9,20 @@ namespace SoccerRankingLib
 {
     public abstract class PointSystem
     {
+
         public abstract ITotal InitialPoints { get; }
 
         public abstract ITotal GetPointsFromMatch(Match m, bool isHome);
 
-        public interface ITotal
-        {
-            void Increment(ITotal with);
-            int CompareTo(Object obj);
+   public interface ITotal
+    {
+         void Increment(ITotal with);
+         int CompareTo(Object obj);
 
-            //override string ToString;
-        }
+       //override string ToString;
+        
+       
     }
+
+      }
 }

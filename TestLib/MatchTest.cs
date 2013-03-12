@@ -171,7 +171,7 @@ namespace TestLib
             Match target = new Match(home, away, isAwayForfeit,"away"); // TODO: initialisez à une valeur appropriée
             bool actual;
             actual = target.IsAwayForfeit;
-            Assert.AreEqual(isAwayForfeit, actual);
+            Assert.AreEqual(false, actual);
         }
 
         /// <summary>
@@ -200,7 +200,7 @@ namespace TestLib
             Match target = new Match(home, away, isHomeForfeit,"home"); // TODO: initialisez à une valeur appropriée
             bool actual;
             actual = target.IsHomeForfeit;
-            Assert.AreEqual(isHomeForfeit, actual);
+            Assert.AreEqual(true, actual);
            
         }
     }

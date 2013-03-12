@@ -19,17 +19,3 @@ C:\Atelier3\Atelier3\bin\Debug\Lib.dll
 C:\Atelier3\Atelier3\bin\Debug\Lib.pdb
 C:\Atelier3\Atelier3\obj\x86\Debug\Atelier3.exe
 C:\Atelier3\Atelier3\obj\x86\Debug\Atelier3.pdb
-D:\utilisateurs\slucbere\Desktop\Atelier3\Atelier3\obj\x86\Debug\Atelier3.exe
-D:\utilisateurs\slucbere\Desktop\Atelier3\Atelier3\obj\x86\Debug\Atelier3.pdb
-D:\utilisateurs\slucbere\Desktop\Atelier3\Atelier3\bin\Debug\Atelier3.exe
-D:\utilisateurs\slucbere\Desktop\Atelier3\Atelier3\bin\Debug\Atelier3.pdb
-D:\utilisateurs\slucbere\Desktop\Atelier3\Atelier3\bin\Debug\Lib.dll
-D:\utilisateurs\slucbere\Desktop\Atelier3\Atelier3\bin\Debug\Lib.pdb
-D:\utilisateurs\slucbere\Desktop\Atelier3\Atelier3\obj\x86\Debug\Atelier3.csprojResolveAssemblyReference.cache
-D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\Atelier3\obj\x86\Debug\Atelier3.exe
-D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\Atelier3\obj\x86\Debug\Atelier3.pdb
-D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\Atelier3\bin\Debug\Atelier3.exe
-D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\Atelier3\bin\Debug\Atelier3.pdb
-D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\Atelier3\bin\Debug\Lib.dll
-D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\Atelier3\bin\Debug\Lib.pdb
-D:\utilisateurs\tbenchek\Desktop\Atelier3\Atelier3\Atelier3\obj\x86\Debug\Atelier3.csprojResolveAssemblyReference.cache

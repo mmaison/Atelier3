@@ -34,7 +34,6 @@ namespace SoccerRankingLib
 
         public class PointTotal : ITotal
         {
-            private int goalaverage;
             private int points;
 
             #region ITotal Membres
